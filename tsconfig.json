@@ -10,7 +10,7 @@
         "strict": true
     },
     "include": [
-        "./src/**/*.ts",
+        "./src/**/*.ts", "src/ui-react/src/state/context.tsx",
     ],
     "exclude": [
         "node_modules"
